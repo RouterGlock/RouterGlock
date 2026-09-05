@@ -34,5 +34,3 @@ Four years as a U.S. Marine, five as a certified Law Enforcement and
 Corrections Officer, now building software full-time — self-taught,
 shipping in public. More on that path, and everything above in context, is
 on [my portfolio](https://claude.ai/code/artifact/c79a4d8b-29a2-4018-8329-0aa4d05c475e).
-
-![RouterGlock's GitHub stats](https://github-readme-stats.vercel.app/api?username=RouterGlock&show_icons=true&theme=transparent&hide_border=true&title_color=0B6E68&icon_color=9A5B10&text_color=4B4E48)
